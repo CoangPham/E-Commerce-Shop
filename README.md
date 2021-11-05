@@ -1,2 +1,1 @@
-# E-Commerce-Shop
-SE2
+# E-Commerce
